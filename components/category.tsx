@@ -21,12 +21,12 @@ const categories = [
 export const Categories: React.FC = () => {
   const [activeCategory, setActiveCategory] = useState("all");
   return (
-    <div className="flex gap-2 py-3 px-4 overflow-x-auto justify-end  mr-24" aria-label="Categories">
+    <div className="grid grid-flow-col gap-2 p-2  " aria-label="Categories">
       {categories.map((cat) => (
         <button
           key={cat.id}
           onClick={() => setActiveCategory(cat.id)}
-          className={`capitalize whitespace-nowrap rounded-xl px-4 py-2 text-sm ${
+          className={`capitalize  rounded-xl px-4 py-2 text-sm ${
             activeCategory === cat.id
               ? "bg-black text-white"
               : "bg-gray-200 text-gray-900"
