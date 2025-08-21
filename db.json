@@ -1,0 +1,84 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "title": "Learn Next.js in 15 Minutes",
+      "thumbnail": "https://i.ytimg.com/vi/1WmNXEVia8I/hqdefault.jpg",
+      "channelName": "Code Academy",
+      "views": "1.2M views",
+      "uploaded": "2 weeks ago"
+    },
+    {
+      "id": 2,
+      "title": "Tailwind CSS Crash Course",
+      "thumbnail": "https://i.ytimg.com/vi/UBOj6rqRUME/hqdefault.jpg",
+      "channelName": "Dev Master",
+      "views": "850K views",
+      "uploaded": "1 month ago"
+    },
+    {
+      "id": 3,
+      "title": "React Hooks Tutorial",
+      "thumbnail": "https://i.ytimg.com/vi/f687hBjwFcM/hqdefault.jpg",
+      "channelName": "JS World",
+      "views": "2.3M views",
+      "uploaded": "3 months ago"
+    },
+    {
+      "id": 4,
+      "title": "JavaScript Async/Await Explained",
+      "thumbnail": "https://i.ytimg.com/vi/V_Kr9OSfDeU/hqdefault.jpg",
+      "channelName": "Code with Sam",
+      "views": "520K views",
+      "uploaded": "1 week ago"
+    },
+    {
+      "id": 5,
+      "title": "CSS Grid vs Flexbox",
+      "thumbnail": "https://i.ytimg.com/vi/hs3piaN4b5I/hqdefault.jpg",
+      "channelName": "Frontend Simplified",
+      "views": "750K views",
+      "uploaded": "4 months ago"
+    },
+    {
+      "id": 6,
+      "title": "TypeScript Full Course",
+      "thumbnail": "https://i.ytimg.com/vi/30LWjhZzg50/hqdefault.jpg",
+      "channelName": "Tech Dev",
+      "views": "1.9M views",
+      "uploaded": "2 days ago"
+    },
+    {
+      "id": 7,
+      "title": "Next.js 14 New Features",
+      "thumbnail": "https://i.ytimg.com/vi/wm5gMKuwSYk/hqdefault.jpg",
+      "channelName": "Next Level Devs",
+      "views": "600K views",
+      "uploaded": "5 days ago"
+    },
+    {
+      "id": 8,
+      "title": "Build a Portfolio Website",
+      "thumbnail": "https://i.ytimg.com/vi/9bGbykdR4nE/hqdefault.jpg",
+      "channelName": "DesignCode",
+      "views": "3.1M views",
+      "uploaded": "6 months ago"
+    },
+    {
+      "id": 9,
+      "title": "Top 10 VS Code Extensions",
+      "thumbnail": "https://i.ytimg.com/vi/fJEbVCrEMSE/hqdefault.jpg",
+      "channelName": "Code Journey",
+      "views": "980K views",
+      "uploaded": "3 weeks ago"
+    },
+    {
+      "id": 10,
+      "title": "Git & GitHub Tutorial for Beginners",
+      "thumbnail": "https://i.ytimg.com/vi/RGOj5yH7evk/hqdefault.jpg",
+      "channelName": "Dev Simplified",
+      "views": "4.5M views",
+      "uploaded": "8 months ago"
+    }
+  ]
+}
